@@ -11,4 +11,4 @@
 
 ### Hi there 👋
 
-My name is Seth Chart. I am a Data Science student at Flatiron School, work as a database manager, and hold a PhD in Mathematics.
+Experience in data acquisition and data modeling, statistical analysis, machine learning, deep learning, and NLP. With a background in mathematics and database management, I bring strong skills in project management and education that help data driven companies realize their mission. 
