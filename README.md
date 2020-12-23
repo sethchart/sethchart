@@ -9,6 +9,6 @@
 ![](https://img.shields.io/badge/Interest-Data_Science-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success)
 
 
-### Hi there 👋
+### Hi there 👋 my name is Seth
 
 With experience in data acquisition and data modeling, statistical analysis, machine learning, deep learning, and NLP. With a background in mathematics and database management, I bring strong skills in project management and education that help data driven companies realize their mission. 
