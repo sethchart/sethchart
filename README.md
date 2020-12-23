@@ -7,9 +7,6 @@
 ![](https://img.shields.io/badge/Experience-Teaching-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red) 
 ![](https://img.shields.io/badge/Experience-Database_Management-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Interest-Data_Science-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success)
-![](https://img.shields.io/badge/Interest-NLP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success) 
-![](https://img.shields.io/badge/Interest-Deep_Learning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success) 
-![](https://img.shields.io/badge/Interest-TensorFlow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success) 
 
 
 ### Hi there 👋
