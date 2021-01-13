@@ -11,4 +11,4 @@
 
 ### Hi there 👋 my name is Seth
 
-With experience in data acquisition and data modeling, statistical analysis, machine learning, deep learning, and NLP. With a background in mathematics and database management, I bring strong skills in project management and education that help data driven companies realize their mission. 
+With experience in data acquisition and data modeling, statistical analysis, machine learning, deep learning, and NLP and a background in mathematics and database management, I bring strong skills in project management and education that help data driven companies realize their mission. 
